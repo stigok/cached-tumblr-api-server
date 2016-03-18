@@ -1,0 +1,9 @@
+{
+  "tumblr": {
+    "blog": "your_blog.tumblr.com",
+    "consumer_key": "fill_in_proper_value",
+    "consumer_secret": "fill_in_proper_value",
+    "token": "fill_in_proper_value",
+    "token_secret": "fill_in_proper_value"
+  }
+}
