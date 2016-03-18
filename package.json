@@ -11,5 +11,11 @@
     "start": "node bin/www 7000"
   },
   "author": "stigok",
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "express": "^4.13.4",
+    "helmet": "^1.3.0",
+    "memory-cache": "^0.1.4",
+    "tumblr.js": "0.0.7"
+  }
 }
